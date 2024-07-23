@@ -6,7 +6,7 @@
   <li>:mortar_board: Análise e Desenvolvimento de Sistemas</li>
   <li>:globe_with_meridians: Totvs Protheus e ADVPL</li>
   <li>:computer: Ênfase em desenvolvimento</li>
-  <li>:open_book: Conhecimentos em: ADVPL/TL++ | Totvs Protheus | MySQL | HTML | CSS | PHP |  | JavaScript </li>
+  <li>:open_book: Conhecimentos em: ADVPL/TL++ | Totvs Protheus | MySQL | HTML | CSS | PHP | JavaScript </li>
   <li>:open_file_folder: Frameworks e Ferramentas: Arquitetura MVC em ADVPL | Controle de versão Git 
 </ul>
 
