@@ -19,3 +19,9 @@
 - ADVPL
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5db2e4&height=120&section=footer"/>
+
+##
+         
+### Contatos:
+
+  <a href="https://www.linkedin.com/in/alysson-oliveira-andrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
