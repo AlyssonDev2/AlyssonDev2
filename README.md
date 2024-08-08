@@ -17,6 +17,7 @@
 - Totvs Protheus
 - SQL
 - ADVPL
+- Webservice (SOAP E REST)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5db2e4&height=120&section=footer"/>
 
